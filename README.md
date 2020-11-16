@@ -15,16 +15,6 @@ Your challenge today will be to work with their array of ice cream flavors to ac
 
 ## Instructions
 
-### Task 1: Set up Project
-
-4. open the terminal in your vs code and type `npm install`
-5. next type `npm run test:watch` in your terminal
-6. Complete your work making regular commits, once you have all your tests passing and you are ready to submit your work please see canvas for instructions on how to submit
-
-### Task 2: MVP
-
-Find the file `index.js` and complete the tasks until your returns look like the expected returns. Do not use any of the forbidden methods!
-
 ### Task 3: Stretch
 
 There are several stretch goals inside `index.js`. You may work on these once you have finished MVP requirements for the day!
